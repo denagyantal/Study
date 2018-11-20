@@ -376,20 +376,3 @@ showPlot1("Effect of the increasing robot on 20x20 room, 200 trial ","Number of 
 showPlot2("Effect of the increasing room size, 2 robots, 200 trial","Aspcet raiots","Time-steps")
 
 
-# === Problem 6
-# NOTE: If you are running the simulation, you will have to close it
-# before the plot will show up.
-#
-#
-# 1) Write a function call to showPlot1 that generates an appropriately-labeled
-#     plot.
-#
-#       (... your call here ...)
-#
-#
-#
-# 2) Write a function call to showPlot2 that generates an appropriately-labeled
-#     plot.
-#
-#       (... your call here ...)
-
